@@ -1,3 +1,3 @@
-module github.com/babygoat/golang-pop-quiz
+module github.com/babygoat/quiz
 
 go 1.12
